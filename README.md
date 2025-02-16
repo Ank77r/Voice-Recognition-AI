@@ -1,7 +1,9 @@
 🎙️ Voice Recognition AI 🤖
+
 A Python-based voice assistant that recognizes voice commands, performs actions like opening applications, searches Wikipedia, greets users, and provides date and time updates.
 
 🚀 Features
+
 🎤 Voice Command Execution – Open applications, search Wikipedia, and more.
 ⏳ Date & Time Query – Get the current date and time.
 🏆 User-Friendly Interface – Simple and easy-to-use voice-based assistant.
